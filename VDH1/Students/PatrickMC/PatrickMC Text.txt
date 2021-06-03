@@ -1,0 +1,15 @@
+﻿Collaborators: At give adgang til ens projekt i Github så andre enten kan hente den Public eller Private i forhold til hvem du ønsker skal have adgang
+
+Public: At alle har adgang til at clone dit repository når det er uploaded
+
+Private: At repositoriet er usynligt og skal gives adgang til med en collaborator invitation før den kan hentes
+
+Pull: At man ønsker at pulle repositoriet 
+
+Push: At man pusher repositoriet til sin Github eller til den github som den skal uploades til
+
+Fetch: At man henter nyt arbejde i det givende repository lavet af andre
+
+Clone: At man cloner et repository fra Github
+
+Pull Request: At du fortæller andre om de ændringer du har lavet efter du har pushed til Github
